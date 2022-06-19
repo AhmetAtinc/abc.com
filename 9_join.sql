@@ -56,7 +56,7 @@ use sys;
     ON tablo1.sutun = tablo2.sutun;
 ================================================================================  
     
-  
+
 /* -----------------------------------------------------------------------------
   ORNEK1: Iki Tabloda sirket_id'si ayni olanlarin sirket_ismi, siparis_id ve 
   siparis_tarihleri listeleyen bir sorgu yaziniz.
